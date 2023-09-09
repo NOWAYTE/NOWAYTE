@@ -1,4 +1,4 @@
-<p>Welcome to my github page</p>
+<h3 style = bold >Welcome to my github page</h3>
 - 🔭 I’m currently a student at ALX **software engineering**
 
 - 🌱 I’m currently learning **MERN**
