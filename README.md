@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel kamau nganga</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nowayte&label=Profile%20views&color=0e75b6&style=flat" alt="nowayte" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nowayte" alt="nowayte" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nowayte_se" target="blank"><img src="https://img.shields.io/twitter/follow/nowayte_se?logo=twitter&style=for-the-badge" alt="nowayte_se" /></a> </p>
-
 - 🔭 I’m currently a student at ALX **software engineering**
 
 - 🌱 I’m currently learning **MERN**
