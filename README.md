@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel kamau nganga</h1>
+<p>Welcome to my github page</p>
 - 🔭 I’m currently a student at ALX **software engineering**
 
 - 🌱 I’m currently learning **MERN**
