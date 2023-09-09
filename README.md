@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Daniel kamau nganga</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nowayte&label=Profile%20views&color=0e75b6&style=flat" alt="nowayte" /> </p>
-
 - 🔭 I’m currently a student at ALX **software engineering**
 
 - 🌱 I’m currently learning **MERN**
