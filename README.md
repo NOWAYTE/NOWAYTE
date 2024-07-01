@@ -2,6 +2,8 @@
 
 🚀 Check out my New Portfolio [islemmaboud.com](https://se.nowayte.tech)
 
+Hello friend I'm Nowayte a dedicated software engineer and computer engineer with a deep passion for technology. Always eager to broaden my knowledge and skills, I spend most of my time continuous learning and hands-on project development.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nowayte_se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nowayte_se" height="30" width="40" /></a>
