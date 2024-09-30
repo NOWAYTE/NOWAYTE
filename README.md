@@ -1,6 +1,6 @@
 ## < Hi /> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-🚀 Check out my Portfolio [se.nowayte.tech](https://se.nowayte.tech)
+🚀 Check out my Portfolio [se.nowayte.tech](https://nowayte.vercel.app)
 
 Hello friend I'm Nowayte a dedicated software engineer and computer engineer with a deep passion for technology. Always eager to broaden my knowledge and skills, I spend most of my time in continuous learning and hands-on project development.
 
